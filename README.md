@@ -45,29 +45,33 @@
 <td>pandas, numpy, matplotlib, seaborn,<b>warnings</b>,<b>itertools</b>, sklearn:(neighbors, tree, linear_model, ensemble, model_selection, metrics, <b>preprocessing</b>, <b>impute</b>, <b>utils</b>)</td>
 <tr>
 <td> <b>7</b></td>
-<td><a href="https:" target="_blank"><b>Анализ результатов AB-теста</b></a></td>
+<td><a href="https:" target="_blank"><b>Прогнозирование температуры плавления стали</b></a></td>
 <td>Анализ результатов A/B-теста.</td>
 <td>pandas, bokeh, holoviews, scipy</td>
 <tr>
 <td> <b>8</b></td>
-<td><a href="https:" target="_blank"><b>Сборный проект-2. ААВ-тесты</b></a></td>
+<td><a href="https:" target="_blank"><b>Определение возраста покупателей</b></a></td>
 <td>ААВ-тестирование, множественное тестирование и применение поправок к полученным результатам.</td>
 <td>pandas, bokeh, plotly, statsmodels</td>
 <tr>
 <td> <b>9</b></td>
-<td><a href="https:" target="_blank"><b>Сборный проект-2. ААВ-тесты</b></a></td>
+<td><a href="https:" target="_blank"><b>Разметка токсичных комментариев</b></a></td>
 <td>ААВ-тестирование, множественное тестирование и применение поправок к полученным результатам.</td>
 <td>pandas, bokeh, plotly, statsmodels</td>
 <tr>
 <td> <b>10</b></td>
-<td><a href="https:" target="_blank"><b>Сборный проект-2. ААВ-тесты</b></a></td>
+<td><a href="https:" target="_blank"><b>Прогнозирование заказов такси</b></a></td>
 <td>ААВ-тестирование, множественное тестирование и применение поправок к полученным результатам.</td>
 <td>pandas, bokeh, plotly, statsmodels</td>
 <tr>
 <td> <b>11</b></td>
-<td><a href="https:" target="_blank"><b>Сборный проект-2. ААВ-тесты</b></a></td>
+<td><a href="https:" target="_blank"><b>Определение стоимости автомобилей</b></a></td>
 <td>ААВ-тестирование, множественное тестирование и применение поправок к полученным результатам.</td>
 <td>pandas, bokeh, plotly, statsmodels</td>
-</table>
+<tr>
+<td> <b>11</b></td>
+<td><a href="https:" target="_blank"><b>Защита персональных данных клиентов</b></a></td>
+<td>ААВ-тестирование, множественное тестирование и применение поправок к полученным результатам.</td>
+<td>pandas, bokeh, plotly, statsmodels</td>
 </table>
 <br/><br/>
