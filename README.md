@@ -46,8 +46,10 @@
 <tr>
 <td> <b>7</b></td>
 <td><a href="https://github.com/Hikkipix/My_projects/blob/main/Steel%20melting%20temperature%20prediction/Steel_melting_temperature_prediction.ipynb" target="_blank"><b>Прогнозирование температуры плавления стали</b></a></td>
-<td>Анализ результатов A/B-теста.</td>
-<td>pandas, bokeh, holoviews, scipy</td>
+<td>Чтобы оптимизировать производственные расходы нужно уменьшить потребление электроэнергии на этапе обработки стали. Для этого построим модель, которая предскажет температуру стали.</td>
+<td>pandas, <b>os</b>, <b>math</b>, time, itertools, <b>urllib.request</b>, numpy, plotly.express, pandas, seaborn, <b>xgboost</b>,
+ <b>lightgbm</b>, matplotlib.pyplot, pathlib, <b>catboost</b>, sklearn:(preprocessing, model_selection, metrics, model_selection, linear_model),
+warnings,scipy</td>
 <tr>
 <td> <b>8</b></td>
 <td><a href="https://github.com/Hikkipix/My_projects/blob/main/Computer%20vision.%20(buyers%20age%20determining)/Computer_vision_(buyers_age_determining).ipynb" target="_blank"><b>Определение возраста покупателей</b></a></td>
