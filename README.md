@@ -58,7 +58,6 @@
 <td><a href="https:" target="_blank"><b>Сборный проект-2. ААВ-тесты</b></a></td>
 <td>ААВ-тестирование, множественное тестирование и применение поправок к полученным результатам.</td>
 <td>pandas, bokeh, plotly, statsmodels</td>
-</table>
 <tr>
 <td> <b>10</b></td>
 <td><a href="https:" target="_blank"><b>Сборный проект-2. ААВ-тесты</b></a></td>
