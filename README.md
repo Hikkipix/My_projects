@@ -8,8 +8,8 @@
 <td><b>Libraries</b></td>
 <tr>
 <td><b>1</b></td>
-<td><a href="https://https://github.com/Hikkipix/My_projects/blob/f51d759bc1cf88959012c21b31dcdb256c0075af/Preprocessing/Preprocessing.ipynb" target="_blank"><b>Исследование надежности заемщиков</b></a></td>
-<td>Заказчик — кредитный отдел банка. Нужно разобраться:
+<td><a href="https://https://github.com/Hikkipix/My_projects/blob/f51d759bc1cf88959012c21b31dcdb256c0075af/Preprocessing/Preprocessing.ipynb" target="_blank"><b>Исследование надежности заемщиков банка</b></a></td>
+<td>Нужно разобраться:
 
 влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.
 существует ли зависимость между уровнем дохода и возвратом кредита в срок.
@@ -25,25 +25,24 @@
 <td>pandas, <b>numpy</b>, <b>matplotlib</b>, <b>seaborn</b></td>
 <tr>
 <td> <b>3</b></td>
-<td><a href="https" target="_blank"><b>Определение перспективного тарифа для телеком-компании</b></a></td>
-<td>Анализ тарифов мобильного оператора. Необходимо проанализировать поведение клиентов и сделать вывод — какой тариф лучше.</td>
-<td>pandas, numpy, matplotlib, <b>folium</b>, scipy, requests, API Yandex.Геокодер</td>
+<td><a href="https://github.com/Hikkipix/My_projects/blob/main/Statistical%20analysis%20of%20tariffs%20in%20telecom/Statistical_analysis_of_tariffs_in_telecom%20(1).ipynb" target="_blank"><b>Анализ поведения клиентов телеком-компании</b></a></td>
+<td>Необходимо понять, какой из приведённых тарифов лучше и почему. Какой из них более перспективный.</td>
+<td>pandas, numpy, matplotlib, seaborn, <b>scipy</b>, <b>plotly.express</b>, <b>datetime</b> </td>
 <tr>
 <td> <b>4</b></td>
-<td><a href="https:" target="_blank"><b>Сборный проект-1. Анализ игровой индустрии</b></td>
-<td>Интернет-магазин компьютерных игр и игр для консолей. Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.</td>
-<td>pandas, numpy, matplotlib, scipy, seaborn, <b>mplcursors</b></td>
+<td><a href=https://github.com/Hikkipix/My_projects/blob/main/Gaming%20Industry%20Analysis/Gaming_Industry_Analysis.ipynb" target="_blank"><b>Анализ игровой индустрии</b></td>
+<td>Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.</td>
+<td>pandas, numpy, matplotlib, seaborn, scipy</td>
 <tr>
 <td> <b>5</b></td>
-<td><a href="" target="_blank"><b>Аналитика в авиакомпании</b></a></td>
-<td>Анализ перелетов по моделям самолетов за определенный период. Составление карты перелетов</td>
-<td>pandas, numpy, matplotlib, scipy, <b>bokeh</b></td>
+<td><a href="https://github.com/Hikkipix/My_projects/blob/main/Machine%20learning%20for%20telecom%20tariffs/Machine_learning_for_telecom.ipynb" target="_blank"><b>Выбор лучшего тарифа</b></a></td>
+<td> Построим модель на основе машинного обучения, которая выберет подходящий тариф.</td>
+<td>pandas, numpy, matplotlib, seaborn, <b>sklearn.neighbors</b>, <b>sklearn.tree</b>, <b>sklearn.linear_model</b>, <b>sklearn.ensemble</b>, <b>sklearn.model_selection</b>, <b>sklearn.metrics</b></td>
 <tr>
 <td> <b>6</b></td>
-<td><a href="https:" target="_blank"><b>Анализ бизнес-показателей</b></a></td>
-<td>Стажировка в отделе аналитики Яндекс.Афиши. Задача: помочь маркетологам оптимизировать маркетинговые затраты.
-Расчет бизнес-метрик: Retention, LTV, CAC, ROMI.
-<td>pandas, numpy, matplotlib, seaborn, bokeh, <b>pandas-bokeh</b>, <b>holoviews</b></td>
+<td><a href="https://github.com/Hikkipix/My_projects/blob/main/Predicting%20the%20behavior%20of%20bank%20customers/Predicting_the_behavior_of_bank_customers.ipynb" target="_blank"><b>Анализ поведения клиентов банка</b></a></td>
+<td>Построить прогноз на данных банка об уходе клиента в ближайшее время или нет.Работа с данными о поведении клиентов и расторжении договоров с банком. Напишем модель с предельно большим значением *F1*-меры.Целевой признак — факт ухода клиента</td>
+<td>pandas, numpy, matplotlib, seaborn,<b>warnings</b>,<b>itertools</b>, sklearn:(neighbors, tree, linear_model, ensemble, model_selection, metrics, <b>preprocessing</b>, <b>impute</b>, <b>utils</b>)</td>
 <tr>
 <td> <b>7</b></td>
 <td><a href="https:" target="_blank"><b>Анализ результатов AB-теста</b></a></td>
