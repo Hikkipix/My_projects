@@ -45,32 +45,32 @@
 <td>pandas, numpy, matplotlib, seaborn,<b>warnings</b>,<b>itertools</b>, sklearn:(neighbors, tree, linear_model, ensemble, model_selection, metrics, <b>preprocessing</b>, <b>impute</b>, <b>utils</b>)</td>
 <tr>
 <td> <b>7</b></td>
-<td><a href="https:" target="_blank"><b>Прогнозирование температуры плавления стали</b></a></td>
+<td><a href="https://github.com/Hikkipix/My_projects/blob/main/Steel%20melting%20temperature%20prediction/Steel_melting_temperature_prediction.ipynb" target="_blank"><b>Прогнозирование температуры плавления стали</b></a></td>
 <td>Анализ результатов A/B-теста.</td>
 <td>pandas, bokeh, holoviews, scipy</td>
 <tr>
 <td> <b>8</b></td>
-<td><a href="https:" target="_blank"><b>Определение возраста покупателей</b></a></td>
+<td><a href="https://github.com/Hikkipix/My_projects/blob/main/Computer%20vision.%20(buyers%20age%20determining)/Computer_vision_(buyers_age_determining).ipynb" target="_blank"><b>Определение возраста покупателей</b></a></td>
 <td>ААВ-тестирование, множественное тестирование и применение поправок к полученным результатам.</td>
 <td>pandas, bokeh, plotly, statsmodels</td>
 <tr>
 <td> <b>9</b></td>
-<td><a href="https:" target="_blank"><b>Разметка токсичных комментариев</b></a></td>
+<td><a href="https://github.com/Hikkipix/My_projects/blob/main/Comment%20Markup(NLP)/Comment_Markup(NLP).ipynb" target="_blank"><b>Разметка токсичных комментариев</b></a></td>
 <td>ААВ-тестирование, множественное тестирование и применение поправок к полученным результатам.</td>
 <td>pandas, bokeh, plotly, statsmodels</td>
 <tr>
 <td> <b>10</b></td>
-<td><a href="https:" target="_blank"><b>Прогнозирование заказов такси</b></a></td>
+<td><a href="https://github.com/Hikkipix/My_projects/blob/main/Forecasting%20taxi%20orders/Forecasting_taxi_orders.ipynb" target="_blank"><b>Прогнозирование заказов такси</b></a></td>
 <td>ААВ-тестирование, множественное тестирование и применение поправок к полученным результатам.</td>
 <td>pandas, bokeh, plotly, statsmodels</td>
 <tr>
 <td> <b>11</b></td>
-<td><a href="https:" target="_blank"><b>Определение стоимости автомобилей</b></a></td>
+<td><a href="https://github.com/Hikkipix/My_projects/blob/main/Determining%20the%20cost%20of%20cars/Determining_the_cost_of_cars.ipynb" target="_blank"><b>Определение стоимости автомобилей</b></a></td>
 <td>ААВ-тестирование, множественное тестирование и применение поправок к полученным результатам.</td>
 <td>pandas, bokeh, plotly, statsmodels</td>
 <tr>
 <td> <b>11</b></td>
-<td><a href="https:" target="_blank"><b>Защита персональных данных клиентов</b></a></td>
+<td><a href="https://github.com/Hikkipix/My_projects/blob/main/Protection%20of%20clients%20personal%20data/Protection_of_clients_personal_data.ipynb" target="_blank"><b>Защита персональных данных клиентов</b></a></td>
 <td>ААВ-тестирование, множественное тестирование и применение поправок к полученным результатам.</td>
 <td>pandas, bokeh, plotly, statsmodels</td>
 </table>
